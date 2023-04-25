@@ -1,0 +1,21 @@
+{
+    "name": "mpm/validation",
+    "description": "A handy validator class",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mpm\\Validation\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "raaz maholia",
+            "email": "maholialekhraj46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
